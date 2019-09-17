@@ -11,7 +11,7 @@ humandate: "October 14-15, 2019"    # human-readable dates for the workshop (e.g
 humantime: "8:30 a.m. – 4:30 p.m."    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-10-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Trisha Adamus", "Clare Michaud", "Heather Shimon", 
+instructor: ["Trisha Adamus", "Cameron Cook"", Clare Michaud", "Heather Shimon", 
 "Sarah Stevens"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Cid Freitag"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
